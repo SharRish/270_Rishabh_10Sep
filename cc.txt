@@ -1,0 +1,4 @@
+This is a %%sample text file.
+It is supposed to contain @#characters
+It is also %*supposed to contain special characters
+We will #$ have&# to *!! find them all
